@@ -2,7 +2,7 @@ deployment:
   prod:
     branch: master
     heroku: 
-       appname: startnow-ops200-deliver-it-well 
+       appname: guarded-wave-96944 
 machine:
   node:
     version: 8.1.4
